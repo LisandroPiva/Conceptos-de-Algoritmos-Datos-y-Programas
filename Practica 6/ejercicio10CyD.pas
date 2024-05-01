@@ -1,4 +1,5 @@
 program ejercicio10;
+// hola si llegaste hasta aca porfa dame estrellitas
 type
   lista= ^nodo
   nodo= record
